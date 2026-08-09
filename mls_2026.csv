@@ -1,6 +1,6 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 mls_2026,Allen Chapman,USA,41,144,5,3.51,0.12,3.29,20.0,291,1053,40
-mls_2026,Rosendo Mendoza,USA,40,199,5,4.97,0.12,3.3,26.7,140,646,14
+mls_2026,Rosendo Mendoza,USA,40,199,5,4.97,0.12,3.3,26.7,141,649,15
 mls_2026,Rubiel Vazquez,USA,40,159,6,3.98,0.15,3.15,23.4,176,644,21
 mls_2026,Filip Dujic,Canada,37,155,6,4.19,0.16,3.43,25.7,89,357,12
 mls_2026,Victor Rivas,USA,37,171,7,4.62,0.19,3.22,23.1,148,693,14
@@ -14,9 +14,9 @@ mls_2026,Alexis Da Silva,USA,31,146,0,4.71,0.0,2.71,25.6,50,215,2
 mls_2026,Marcos de Oliveira,USA,29,102,0,3.52,0.0,3.0,24.8,148,554,7
 mls_2026,Jair Antonio Maruffo,USA,27,79,3,2.93,0.11,2.78,21.3,131,391,6
 mls_2026,Fotis Bazakos,USA,26,114,2,4.38,0.08,3.19,24.3,171,683,16
+mls_2026,Malik Badawi,USA,26,108,0,4.15,0.0,3.0,23.3,49,205,1
 mls_2026,Tori Penso,USA,26,108,0,4.15,0.0,2.38,20.8,96,353,3
 mls_2026,Joseph Dickerson,USA,25,112,6,4.48,0.24,4.12,26.2,173,763,27
-mls_2026,Malik Badawi,USA,25,105,0,4.2,0.0,3.04,23.4,49,205,1
 mls_2026,Ricardo Montero,Costa Rica,24,107,4,4.46,0.17,3.29,24.5,49,193,7
 mls_2026,Lorenzo Hernandez,USA,23,109,5,4.74,0.22,3.09,24.0,30,141,6
 mls_2026,Armando Villarrea,USA,22,89,2,4.05,0.09,2.86,23.3,261,977,20
@@ -29,7 +29,7 @@ mls_2026,Elijio Arreguin,USA,12,51,3,4.25,0.25,2.5,29.4,12,53,3
 mls_2026,Ismail Elfath,USA,12,47,2,3.92,0.17,3.17,22.6,270,1037,37
 mls_2026,Ramy Touchan,USA,10,46,0,4.6,0.0,3.0,27.6,110,535,12
 mls_2026,Nabil Bensalah,USA,6,24,1,4.0,0.17,1.83,27.7,10,33,2
-mls_2026,Joshua Encarnacion,USA,3,13,1,4.33,0.33,3.0,30.7,8,26,1
+mls_2026,Joshua Encarnacion,USA,3,13,1,4.33,0.33,3.0,30.7,9,28,1
 mls_2026,Brandon Stevis,USA,2,5,0,2.5,0.0,4.5,35.5,3,12,0
 mls_2026,Greg Dopka,USA,2,8,0,4.0,0.0,2.0,30.5,4,14,0
 mls_2026,Katja Koroleva,USA,2,8,0,4.0,0.0,2.5,21.0,6,18,0
