@@ -1,17 +1,17 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 liga_mx_apertura_2026,Marco Antonio Ortiz Nava,Mexico,15,78,8,5.2,0.53,3.87,27.3,289,1348,79
-liga_mx_apertura_2026,César Ramos Palazuelos,Mexico,12,66,9,5.5,0.75,3.42,25.9,364,1589,93
-liga_mx_apertura_2026,Fernando Hernandez,Mexico,11,54,6,4.91,0.55,3.0,25.0,250,1206,76
+liga_mx_apertura_2026,César Ramos Palazuelos,Mexico,13,69,10,5.31,0.77,3.31,25.7,364,1589,93
+liga_mx_apertura_2026,Fernando Hernandez,Mexico,12,55,7,4.58,0.58,2.92,25.5,252,1219,77
+liga_mx_apertura_2026,Ismael Rosario Lopez Penuelas,Mexico,11,59,4,5.36,0.36,2.45,26.5,78,420,23
 liga_mx_apertura_2026,Luis Santander,Mexico,11,44,4,4.0,0.36,3.45,26.6,285,1241,55
 liga_mx_apertura_2026,Vicente Jassiel Reynoso Arce,Mexico,11,29,3,2.64,0.27,2.45,24.5,31,112,8
 liga_mx_apertura_2026,Victor Alfonso Caceres Hernandez,Mexico,11,44,3,4.0,0.27,2.73,23.4,121,468,23
-liga_mx_apertura_2026,Daniel Quintero Huitrón,Mexico,10,43,4,4.3,0.4,2.6,22.2,112,569,25
-liga_mx_apertura_2026,Ismael Rosario Lopez Penuelas,Mexico,10,53,4,5.3,0.4,2.4,26.4,77,414,22
+liga_mx_apertura_2026,Daniel Quintero Huitrón,Mexico,10,43,4,4.3,0.4,2.6,22.2,115,579,26
 liga_mx_apertura_2026,Jesus Rafael Lopez Valle,Mexico,10,52,6,5.2,0.6,3.9,22.8,59,278,16
 liga_mx_apertura_2026,Maximiliano Quintero Hernandez,Mexico,10,40,2,4.0,0.2,2.8,21.1,40,179,3
 liga_mx_apertura_2026,Adonai Escobedo Gonzalez,Mexico,9,33,1,3.67,0.11,3.22,23.1,224,987,74
 liga_mx_apertura_2026,Katia García,Mexico,9,61,1,6.78,0.11,2.78,29.8,54,208,4
-liga_mx_apertura_2026,Yonatan Peinado Aguirre,Mexico,8,44,5,5.5,0.62,3.5,25.5,15,83,8
+liga_mx_apertura_2026,Yonatan Peinado Aguirre,Mexico,9,50,6,5.56,0.67,3.44,25.2,16,86,8
 liga_mx_apertura_2026,Guillermo Pacheco Larios,Mexico,7,33,2,4.71,0.29,2.29,21.6,61,271,24
 liga_mx_apertura_2026,Ivan Antonio Lopez Sanchez,Mexico,7,38,4,5.43,0.57,2.57,29.3,29,155,4
 liga_mx_apertura_2026,Jorge Abraham Camacho Peregrina,Mexico,7,33,5,4.71,0.71,2.14,24.1,50,226,7
@@ -21,6 +21,6 @@ liga_mx_apertura_2026,Joaquin Alberto Vizcarra Armenta,Mexico,6,25,4,4.17,0.67,1
 liga_mx_apertura_2026,Luis Alfredo Garcia Rodriguez,Mexico,6,22,0,3.67,0.0,3.5,24.8,15,56,1
 liga_mx_apertura_2026,Martin Molina Astorga,Mexico,6,28,2,4.67,0.33,3.0,22.5,14,62,6
 liga_mx_apertura_2026,Abraham de Jesus Quirarte Contreras,Mexico,5,25,4,5.0,0.8,4.6,26.8,21,116,8
-liga_mx_apertura_2026,Mario Terrazas Chavez,Mexico,5,22,2,4.4,0.4,3.4,30.0,19,90,7
+liga_mx_apertura_2026,Mario Terrazas Chavez,Mexico,5,22,2,4.4,0.4,3.4,30.0,20,93,7
 liga_mx_apertura_2026,Salvador Perez Villalobos,Mexico,4,21,3,5.25,0.75,3.0,23.5,15,75,5
 liga_mx_apertura_2026,Aldo Ballesteros Barba,Mexico,1,0,0,0.0,0.0,5.0,25.0,,,

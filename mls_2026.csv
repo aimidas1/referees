@@ -1,14 +1,14 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 mls_2026,Allen Chapman,USA,42,145,7,3.45,0.17,3.29,20.0,292,1058,41
 mls_2026,Rosendo Mendoza,USA,42,206,12,4.9,0.29,3.26,26.6,143,656,15
-mls_2026,Rubiel Vazquez,USA,42,166,7,3.95,0.17,3.14,23.4,180,654,21
+mls_2026,Rubiel Vazquez,USA,42,166,7,3.95,0.17,3.14,23.4,181,657,21
 mls_2026,Filip Dujic,Canada,39,165,10,4.23,0.26,3.46,25.7,94,376,12
 mls_2026,Victor Rivas,USA,38,175,11,4.61,0.29,3.18,23.2,150,698,14
 mls_2026,Drew Fischer,Canada,36,158,2,4.39,0.06,3.39,25.3,259,900,29
 mls_2026,Jon Freemon,USA,36,172,5,4.78,0.14,3.03,24.6,112,515,8
 mls_2026,Sergiy Boyko,Ukraine,36,138,10,3.83,0.28,3.53,22.0,213,962,33
 mls_2026,Chris Penso,USA,34,154,5,4.53,0.15,2.53,22.9,239,1054,37
-mls_2026,Guido Gonzales Jr,USA,33,139,9,4.21,0.27,3.03,24.0,144,667,19
+mls_2026,Guido Gonzales Jr,USA,33,139,9,4.21,0.27,3.03,24.0,145,671,21
 mls_2026,Alexis Da Silva,USA,32,147,2,4.59,0.06,2.81,25.4,52,217,2
 mls_2026,Pierre-Luc Lauziere,USA,32,132,3,4.12,0.09,2.97,23.9,111,408,6
 mls_2026,Marcos de Oliveira,USA,30,106,0,3.53,0.0,3.0,24.8,150,556,7
@@ -16,7 +16,7 @@ mls_2026,Fotis Bazakos,USA,27,120,4,4.44,0.15,3.19,24.1,173,689,16
 mls_2026,Jair Antonio Maruffo,USA,27,79,4,2.93,0.15,2.78,21.3,132,392,6
 mls_2026,Joseph Dickerson,USA,27,120,7,4.44,0.26,3.96,25.8,175,769,28
 mls_2026,Malik Badawi,USA,27,114,5,4.22,0.19,3.0,23.0,51,209,1
-mls_2026,Tori Penso,USA,27,111,2,4.11,0.07,2.37,20.8,98,356,3
+mls_2026,Tori Penso,USA,27,111,2,4.11,0.07,2.37,20.8,98,359,3
 mls_2026,Ricardo Montero,Costa Rica,25,110,6,4.4,0.24,3.2,24.5,50,198,7
 mls_2026,Armando Villarrea,USA,24,98,2,4.08,0.08,3.0,23.5,263,985,20
 mls_2026,Lorenzo Hernandez,USA,24,112,5,4.67,0.21,3.0,23.7,32,152,6
@@ -25,7 +25,7 @@ mls_2026,Tim Ford,USA,22,95,7,4.32,0.32,3.59,22.8,107,406,19
 mls_2026,Sergii Demianchuk,USA,18,86,2,4.78,0.11,3.39,25.8,24,114,1
 mls_2026,Ismir Pekmic,USA,17,88,3,5.18,0.18,2.35,25.2,75,376,2
 mls_2026,Lukasz Szpala,USA,14,50,0,3.57,0.0,2.93,24.1,107,461,15
-mls_2026,Ismail Elfath,USA,13,54,4,4.15,0.31,3.0,23.4,272,1049,37
+mls_2026,Ismail Elfath,USA,13,54,4,4.15,0.31,3.0,23.5,272,1049,37
 mls_2026,Elijio Arreguin,USA,12,51,3,4.25,0.25,2.5,29.3,13,55,3
 mls_2026,Ramy Touchan,USA,12,59,2,4.92,0.17,2.83,28.0,112,548,12
 mls_2026,Nabil Bensalah,USA,6,24,1,4.0,0.17,1.83,27.7,10,33,2
@@ -33,7 +33,7 @@ mls_2026,Joshua Encarnacion,USA,4,20,2,5.0,0.5,3.0,29.5,9,30,1
 mls_2026,Brandon Stevis,USA,2,5,0,2.5,0.0,4.5,35.5,4,13,0
 mls_2026,Greg Dopka,USA,2,8,0,4.0,0.0,2.0,30.5,4,14,0
 mls_2026,Katja Koroleva,USA,2,8,1,4.0,0.5,2.5,21.0,6,18,0
-mls_2026,Michael Venne,Canada,2,9,1,4.5,0.5,2.5,27.0,4,22,1
+mls_2026,Michael Venne,Canada,2,9,1,4.5,0.5,2.5,27.5,4,22,1
 mls_2026,Natalie Simon,USA,2,6,0,3.0,0.0,4.5,24.5,18,41,3
 mls_2026,Abdou Ndiaye,USA,1,6,0,6.0,0.0,0.0,27.0,8,28,1
 mls_2026,Alyssa Pennington,USA,1,8,0,8.0,0.0,1.0,28.0,9,28,1
