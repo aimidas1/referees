@@ -3,30 +3,30 @@ mls_2026,Allen Chapman,USA,42,145,7,3.45,0.17,3.29,20.0,292,1058,41
 mls_2026,Rosendo Mendoza,USA,42,206,12,4.9,0.29,3.26,26.6,143,656,15
 mls_2026,Rubiel Vazquez,USA,42,166,7,3.95,0.17,3.14,23.4,181,657,21
 mls_2026,Filip Dujic,Canada,39,165,10,4.23,0.26,3.46,25.7,94,376,12
-mls_2026,Victor Rivas,USA,39,177,11,4.54,0.28,3.23,22.9,150,698,14
-mls_2026,Drew Fischer,Canada,37,161,2,4.35,0.05,3.35,25.2,259,900,29
+mls_2026,Victor Rivas,USA,39,177,11,4.54,0.28,3.23,22.9,151,702,14
+mls_2026,Drew Fischer,Canada,37,161,2,4.35,0.05,3.35,25.2,260,900,29
 mls_2026,Jon Freemon,USA,37,176,6,4.76,0.16,3.0,24.6,112,515,8
 mls_2026,Sergiy Boyko,Ukraine,36,138,10,3.83,0.28,3.53,22.0,213,962,33
 mls_2026,Chris Penso,USA,34,154,5,4.53,0.15,2.53,22.9,239,1054,37
-mls_2026,Alexis Da Silva,USA,33,154,2,4.67,0.06,2.82,25.5,52,217,2
-mls_2026,Guido Gonzales Jr,USA,33,139,9,4.21,0.27,3.03,24.0,145,671,21
+mls_2026,Guido Gonzales Jr,USA,34,141,9,4.15,0.26,3.0,23.8,145,671,21
+mls_2026,Alexis Da Silva,USA,33,154,2,4.67,0.06,2.82,25.5,52,218,3
 mls_2026,Pierre-Luc Lauziere,USA,33,135,3,4.09,0.09,2.97,24.2,111,408,6
 mls_2026,Marcos de Oliveira,USA,30,106,0,3.53,0.0,3.0,24.8,150,556,7
-mls_2026,Fotis Bazakos,USA,28,124,4,4.43,0.14,3.18,24.1,173,689,16
+mls_2026,Fotis Bazakos,USA,28,124,4,4.43,0.14,3.18,24.1,174,695,16
 mls_2026,Jair Antonio Maruffo,USA,28,80,4,2.86,0.14,2.89,21.6,132,392,6
-mls_2026,Malik Badawi,USA,28,119,5,4.25,0.18,3.07,22.9,51,209,1
+mls_2026,Malik Badawi,USA,28,119,5,4.25,0.18,3.07,22.9,51,213,1
+mls_2026,Tori Penso,USA,28,114,2,4.07,0.07,2.39,20.8,98,359,3
 mls_2026,Joseph Dickerson,USA,27,120,7,4.44,0.26,3.96,25.8,175,769,28
-mls_2026,Tori Penso,USA,27,111,2,4.11,0.07,2.37,20.8,98,359,3
-mls_2026,Lorenzo Hernandez,USA,25,114,6,4.56,0.24,3.04,23.4,32,152,6
+mls_2026,Lorenzo Hernandez,USA,25,114,6,4.56,0.24,3.04,23.4,33,152,6
 mls_2026,Ricardo Montero,Costa Rica,25,110,6,4.4,0.24,3.2,24.5,50,198,7
 mls_2026,Armando Villarrea,USA,24,98,2,4.08,0.08,3.0,23.5,263,985,20
 mls_2026,Ricardo Fierro,USA,24,93,9,3.88,0.38,2.67,27.6,31,113,4
 mls_2026,Tim Ford,USA,22,95,7,4.32,0.32,3.59,22.8,107,406,19
-mls_2026,Sergii Demianchuk,USA,19,89,2,4.68,0.11,3.32,25.5,24,114,1
+mls_2026,Sergii Demianchuk,USA,19,89,2,4.68,0.11,3.32,25.5,25,115,1
 mls_2026,Ismir Pekmic,USA,17,88,3,5.18,0.18,2.35,25.2,75,376,2
-mls_2026,Ismail Elfath,USA,14,57,4,4.07,0.29,3.0,23.4,272,1049,37
+mls_2026,Ismail Elfath,USA,14,57,4,4.07,0.29,3.0,23.4,273,1049,37
 mls_2026,Lukasz Szpala,USA,14,50,0,3.57,0.0,2.93,24.1,107,461,15
-mls_2026,Elijio Arreguin,USA,13,56,3,4.31,0.23,2.62,29.1,13,55,3
+mls_2026,Elijio Arreguin,USA,13,56,3,4.31,0.23,2.62,29.1,14,55,3
 mls_2026,Ramy Touchan,USA,12,59,2,4.92,0.17,2.83,28.0,112,548,12
 mls_2026,Nabil Bensalah,USA,6,24,1,4.0,0.17,1.83,27.7,11,34,2
 mls_2026,Joshua Encarnacion,USA,4,20,2,5.0,0.5,3.0,29.5,9,30,1
@@ -36,7 +36,7 @@ mls_2026,Katja Koroleva,USA,2,8,1,4.0,0.5,2.5,21.0,6,18,0
 mls_2026,Michael Venne,Canada,2,9,1,4.5,0.5,2.5,27.5,4,22,1
 mls_2026,Natalie Simon,USA,2,6,0,3.0,0.0,4.5,24.5,18,41,3
 mls_2026,Rodrigo Albuquerque,USA,2,10,1,5.0,0.5,2.0,24.5,2,10,0
-mls_2026,Abdou Ndiaye,USA,1,6,0,6.0,0.0,0.0,27.0,8,28,1
+mls_2026,Abdou Ndiaye,USA,1,6,0,6.0,0.0,0.0,27.0,10,31,1
 mls_2026,Alyssa Pennington,USA,1,8,0,8.0,0.0,1.0,28.0,9,28,1
 mls_2026,Angel Hernandez Lorenzo,Spain,1,2,0,2.0,0.0,6.0,25.0,5,22,0
 mls_2026,Jose Da Silva,USA,1,2,0,2.0,0.0,6.0,22.0,1,2,0
