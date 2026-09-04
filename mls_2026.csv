@@ -1,27 +1,27 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
-mls_2026,Allen Chapman,USA,43,150,7,3.49,0.16,3.35,20.0,293,1059,41
-mls_2026,Rosendo Mendoza,USA,43,214,12,4.98,0.28,3.21,26.8,143,656,15
+mls_2026,Allen Chapman,USA,43,150,7,3.49,0.16,3.35,20.0,294,1065,41
+mls_2026,Rosendo Mendoza,USA,43,214,12,4.98,0.28,3.21,26.8,144,664,15
 mls_2026,Rubiel Vazquez,USA,42,166,7,3.95,0.17,3.14,23.4,181,657,21
 mls_2026,Victor Rivas,USA,40,178,11,4.45,0.28,3.2,22.7,152,704,14
-mls_2026,Filip Dujic,Canada,39,165,10,4.23,0.26,3.46,25.7,94,376,12
-mls_2026,Drew Fischer,Canada,38,164,2,4.32,0.05,3.37,25.2,260,903,29
-mls_2026,Jon Freemon,USA,38,178,6,4.68,0.16,3.03,24.4,113,520,8
-mls_2026,Sergiy Boyko,Ukraine,36,138,10,3.83,0.28,3.53,22.0,213,962,33
-mls_2026,Guido Gonzales Jr,USA,35,146,9,4.17,0.26,3.0,23.8,146,673,21
+mls_2026,Filip Dujic,Canada,39,165,10,4.23,0.26,3.46,25.7,95,388,15
+mls_2026,Drew Fischer,Canada,38,164,2,4.32,0.05,3.37,25.2,261,906,29
+mls_2026,Jon Freemon,USA,38,178,6,4.68,0.16,3.03,24.4,114,522,8
+mls_2026,Sergiy Boyko,Ukraine,36,138,10,3.83,0.28,3.53,22.0,214,965,33
+mls_2026,Guido Gonzales Jr,USA,35,146,9,4.17,0.26,3.0,23.8,147,678,21
 mls_2026,Chris Penso,USA,34,154,5,4.53,0.15,2.53,22.9,239,1054,37
 mls_2026,Pierre-Luc Lauziere,USA,34,136,3,4.0,0.09,2.88,24.0,112,411,6
-mls_2026,Alexis Da Silva,USA,33,154,2,4.67,0.06,2.82,25.5,52,218,3
+mls_2026,Alexis Da Silva,USA,33,154,2,4.67,0.06,2.82,25.5,53,225,3
 mls_2026,Marcos de Oliveira,USA,31,110,0,3.55,0.0,3.0,25.1,150,560,7
 mls_2026,Jair Antonio Maruffo,USA,29,83,4,2.86,0.14,3.0,21.6,133,393,6
 mls_2026,Malik Badawi,USA,29,124,5,4.28,0.17,3.03,22.9,52,218,1
-mls_2026,Tori Penso,USA,29,120,3,4.14,0.1,2.45,20.9,99,362,3
+mls_2026,Tori Penso,USA,29,120,3,4.14,0.1,2.45,20.9,100,369,3
 mls_2026,Fotis Bazakos,USA,28,124,4,4.43,0.14,3.18,24.1,174,695,16
-mls_2026,Joseph Dickerson,USA,27,120,7,4.44,0.26,3.96,25.8,175,769,28
+mls_2026,Joseph Dickerson,USA,27,120,7,4.44,0.26,3.96,25.8,176,775,28
 mls_2026,Armando Villarrea,USA,25,103,2,4.12,0.08,3.04,23.5,264,991,20
-mls_2026,Lorenzo Hernandez,USA,25,114,6,4.56,0.24,3.04,23.4,33,152,6
+mls_2026,Lorenzo Hernandez,USA,25,114,6,4.56,0.24,3.04,23.4,33,154,7
 mls_2026,Ricardo Montero,Costa Rica,25,110,6,4.4,0.24,3.2,24.5,50,198,7
-mls_2026,Ricardo Fierro,USA,24,93,9,3.88,0.38,2.67,27.6,31,113,4
-mls_2026,Tim Ford,USA,22,95,7,4.32,0.32,3.59,22.8,107,406,19
+mls_2026,Ricardo Fierro,USA,24,93,9,3.88,0.38,2.67,27.6,31,115,4
+mls_2026,Tim Ford,USA,22,95,7,4.32,0.32,3.59,22.8,108,408,19
 mls_2026,Sergii Demianchuk,USA,20,90,2,4.5,0.1,3.15,25.1,25,117,1
 mls_2026,Ismir Pekmic,USA,17,88,3,5.18,0.18,2.35,25.2,75,376,2
 mls_2026,Ismail Elfath,USA,15,58,4,3.87,0.27,3.07,23.1,273,1052,37
@@ -33,7 +33,7 @@ mls_2026,Joshua Encarnacion,USA,4,20,2,5.0,0.5,3.0,29.5,9,30,1
 mls_2026,Brandon Stevis,USA,2,5,0,2.5,0.0,4.5,35.5,4,13,0
 mls_2026,Greg Dopka,USA,2,8,0,4.0,0.0,2.0,30.5,4,14,0
 mls_2026,Katja Koroleva,USA,2,8,1,4.0,0.5,2.5,21.0,6,18,0
-mls_2026,Michael Venne,Canada,2,9,1,4.5,0.5,2.5,27.5,4,22,1
+mls_2026,Michael Venne,Canada,2,9,1,4.5,0.5,2.5,27.5,6,28,1
 mls_2026,Natalie Simon,USA,2,6,0,3.0,0.0,4.5,24.5,18,41,3
 mls_2026,Rodrigo Albuquerque,USA,2,10,1,5.0,0.5,2.0,24.5,3,13,0
 mls_2026,Abdou Ndiaye,USA,1,6,0,6.0,0.0,0.0,27.0,10,31,1
