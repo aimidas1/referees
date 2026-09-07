@@ -1,12 +1,12 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 belgica_pro_league_2026_2027,Lawrence Visser,Belgium,31,138,6,4.45,0.19,3.35,23.4,331,1543,45
-belgica_pro_league_2026_2027,Jasper Vergoote,Belgium,29,93,9,3.21,0.31,3.0,21.4,180,682,23
-belgica_pro_league_2026_2027,Lothar D'hondt,Belgium,29,123,7,4.24,0.24,2.52,25.3,198,797,24
+belgica_pro_league_2026_2027,Jasper Vergoote,Belgium,30,100,11,3.33,0.37,2.97,21.5,180,682,23
+belgica_pro_league_2026_2027,Lothar D'hondt,Belgium,29,123,7,4.24,0.24,2.52,25.3,199,802,24
 belgica_pro_league_2026_2027,Nicolas Laforge,Belgium,29,124,4,4.28,0.14,2.21,21.6,314,1466,60
-belgica_pro_league_2026_2027,Bert Verbeke,Netherlands,27,79,3,2.93,0.11,3.0,21.6,33,100,2
+belgica_pro_league_2026_2027,Bert Verbeke,Netherlands,27,79,3,2.93,0.11,3.0,21.6,34,103,2
+belgica_pro_league_2026_2027,Jan Boterberg,Belgium,27,105,4,3.89,0.15,2.52,21.8,202,766,24
 belgica_pro_league_2026_2027,Simon Bourdeaud'hui,Belgium,27,93,2,3.44,0.07,3.0,23.4,55,205,4
 belgica_pro_league_2026_2027,Bram Van Driessche,Belgium,26,94,6,3.62,0.23,2.85,21.5,274,1224,28
-belgica_pro_league_2026_2027,Jan Boterberg,Belgium,26,102,4,3.92,0.15,2.62,21.8,202,766,24
 belgica_pro_league_2026_2027,Nathan Verboomen,Belgium,26,110,7,4.23,0.27,2.42,23.5,245,1077,42
 belgica_pro_league_2026_2027,Wesli De Cremer,Belgium,20,90,4,4.5,0.2,3.2,25.1,124,491,23
 belgica_pro_league_2026_2027,Eric Lambrechts,Belgium,19,83,2,4.37,0.11,2.84,21.7,345,1403,35
@@ -15,4 +15,5 @@ belgica_pro_league_2026_2027,Kevin van Damme,Belgium,16,67,2,4.19,0.12,2.62,21.8
 belgica_pro_league_2026_2027,Michiel Allaerts,Belgium,15,45,4,3.0,0.27,2.13,23.2,32,113,4
 belgica_pro_league_2026_2027,Massimiliano Ledda,Belgium,12,44,4,3.67,0.33,2.08,25.0,18,70,3
 belgica_pro_league_2026_2027,Anthony Letellier,Belgium,10,26,0,2.6,0.0,2.7,20.8,14,35,1
-belgica_pro_league_2026_2027,Wim Smet,Belgium,3,10,0,3.33,0.0,1.67,24.7,263,927,31
+belgica_pro_league_2026_2027,Wim Smet,Belgium,4,14,0,3.5,0.0,2.0,24.8,263,927,31
+belgica_pro_league_2026_2027,Yusuke Araki,Japan,1,1,0,1.0,0.0,3.0,27.0,201,583,17
