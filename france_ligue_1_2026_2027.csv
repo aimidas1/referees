@@ -1,13 +1,13 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 france_ligue_1_2026_2027,Benoît Bastien,France,21,66,4,3.14,0.19,2.95,22.3,441,1731,76
-france_ligue_1_2026_2027,Clement Turpin,France,19,62,3,3.26,0.16,3.0,22.9,525,1774,103
-france_ligue_1_2026_2027,Eric Wattellier,France,19,54,6,2.84,0.32,3.63,20.1,217,667,31
+france_ligue_1_2026_2027,Clement Turpin,France,19,62,3,3.26,0.16,3.0,22.9,526,1776,103
+france_ligue_1_2026_2027,Eric Wattellier,France,19,54,6,2.84,0.32,3.63,20.1,218,672,31
 france_ligue_1_2026_2027,François Letexier,France,19,84,8,4.42,0.42,2.63,24.1,342,1374,64
 france_ligue_1_2026_2027,Jeremie Pignard,France,19,80,7,4.21,0.37,2.89,23.0,194,826,36
 france_ligue_1_2026_2027,Marc Bollengier,France,19,80,6,4.21,0.32,2.63,27.0,107,399,13
 france_ligue_1_2026_2027,Ruddy Buquet,France,19,58,3,3.05,0.16,3.47,23.1,468,1834,72
 france_ligue_1_2026_2027,Bastien Dechepy,France,18,82,5,4.56,0.28,2.72,24.8,178,703,38
-france_ligue_1_2026_2027,Guillaume Paradis,France,18,68,3,3.78,0.17,2.39,24.7,126,513,23
+france_ligue_1_2026_2027,Guillaume Paradis,France,18,68,3,3.78,0.17,2.39,24.7,127,515,23
 france_ligue_1_2026_2027,Jérôme Brisard,France,18,79,8,4.39,0.44,3.0,23.7,283,1081,64
 france_ligue_1_2026_2027,Willy Delajod,France,18,55,4,3.06,0.22,2.56,24.5,253,974,43
 france_ligue_1_2026_2027,Mathieu Vernice,France,17,67,6,3.94,0.35,2.29,27.4,126,534,25
@@ -21,4 +21,4 @@ france_ligue_1_2026_2027,Romain Lissorgue,France,12,49,3,4.08,0.25,3.08,25.9,180
 france_ligue_1_2026_2027,Abdelatif Kherradji,France,11,42,4,3.82,0.36,2.36,28.4,127,482,22
 france_ligue_1_2026_2027,Aurelien Petit,France,1,2,0,2.0,0.0,4.0,26.0,231,845,54
 france_ligue_1_2026_2027,Azzedine Souifi,France,1,0,0,0.0,0.0,3.0,20.0,61,239,6
-france_ligue_1_2026_2027,Geoffrey Kubler,French Guiana,1,2,0,2.0,0.0,3.0,25.0,41,156,8
+france_ligue_1_2026_2027,Geoffrey Kubler,French Guiana,1,2,0,2.0,0.0,3.0,25.0,42,158,8
