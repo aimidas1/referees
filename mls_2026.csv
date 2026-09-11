@@ -1,8 +1,8 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 mls_2026,Allen Chapman,USA,45,155,7,3.44,0.16,3.36,19.7,295,1068,41
 mls_2026,Rosendo Mendoza,USA,44,220,12,5.0,0.27,3.14,26.8,145,670,15
-mls_2026,Rubiel Vazquez,USA,43,169,7,3.93,0.16,3.14,23.4,182,664,21
-mls_2026,Filip Dujic,Canada,41,170,10,4.15,0.24,3.59,25.6,96,392,15
+mls_2026,Rubiel Vazquez,USA,43,169,7,3.93,0.16,3.14,23.4,183,664,21
+mls_2026,Filip Dujic,Canada,41,170,10,4.15,0.24,3.59,25.6,97,392,15
 mls_2026,Victor Rivas,USA,40,178,11,4.45,0.28,3.2,22.7,152,704,14
 mls_2026,Drew Fischer,Canada,39,169,2,4.33,0.05,3.36,25.2,261,906,29
 mls_2026,Jon Freemon,USA,39,187,6,4.79,0.15,3.05,24.6,114,522,8
@@ -15,9 +15,9 @@ mls_2026,Marcos de Oliveira,USA,31,110,0,3.55,0.0,3.0,25.1,150,560,7
 mls_2026,Jair Antonio Maruffo,USA,30,88,4,2.93,0.13,2.97,21.9,134,396,6
 mls_2026,Tori Penso,USA,30,124,3,4.13,0.1,2.63,20.8,101,370,3
 mls_2026,Fotis Bazakos,USA,29,129,4,4.45,0.14,3.21,24.4,174,699,16
-mls_2026,Joseph Dickerson,USA,29,127,8,4.38,0.28,3.9,25.5,177,780,28
+mls_2026,Joseph Dickerson,USA,29,127,8,4.38,0.28,3.9,25.5,178,780,28
 mls_2026,Malik Badawi,USA,29,124,5,4.28,0.17,3.03,22.9,52,218,1
-mls_2026,Armando Villarrea,USA,26,106,2,4.08,0.08,3.12,23.3,265,996,20
+mls_2026,Armando Villarrea,USA,26,106,2,4.08,0.08,3.12,23.3,266,996,20
 mls_2026,Lorenzo Hernandez,USA,26,116,6,4.46,0.23,3.19,23.3,33,154,7
 mls_2026,Ricardo Fierro,USA,26,101,9,3.88,0.35,2.58,27.8,32,119,4
 mls_2026,Ricardo Montero,Costa Rica,26,114,6,4.38,0.23,3.15,24.5,51,201,7
@@ -41,4 +41,4 @@ mls_2026,Alyssa Pennington,USA,1,8,0,8.0,0.0,1.0,28.0,9,28,1
 mls_2026,Angel Hernandez Lorenzo,Spain,1,2,0,2.0,0.0,6.0,25.0,5,22,0
 mls_2026,Jose Da Silva,USA,1,2,0,2.0,0.0,6.0,22.0,1,2,0
 mls_2026,Mathew Corrigan,USA,1,5,0,5.0,0.0,3.0,24.0,5,11,2
-mls_2026,Muhammad Kaleia,USA,1,5,0,5.0,0.0,3.0,20.0,2,7,0
+mls_2026,Muhammad Kaleia,USA,1,5,0,5.0,0.0,3.0,20.0,3,10,0
