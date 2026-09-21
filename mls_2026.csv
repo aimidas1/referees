@@ -1,23 +1,23 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 mls_2026,Allen Chapman,USA,46,159,7,3.46,0.15,3.28,19.6,296,1070,41
-mls_2026,Rosendo Mendoza,USA,45,225,12,5.0,0.27,3.09,26.9,146,676,15
+mls_2026,Rosendo Mendoza,USA,46,228,12,4.96,0.26,3.11,27.0,146,676,15
 mls_2026,Rubiel Vazquez,USA,44,173,7,3.93,0.16,3.14,23.4,184,671,21
-mls_2026,Drew Fischer,Canada,41,176,3,4.29,0.07,3.32,24.9,263,914,29
+mls_2026,Drew Fischer,Canada,41,176,3,4.29,0.07,3.32,24.9,264,914,29
 mls_2026,Filip Dujic,Canada,41,170,10,4.15,0.24,3.59,25.6,97,392,15
 mls_2026,Jon Freemon,USA,41,197,6,4.8,0.15,3.0,24.6,117,535,8
 mls_2026,Victor Rivas,USA,41,185,12,4.51,0.29,3.2,22.9,154,710,14
-mls_2026,Guido Gonzales Jr,USA,38,166,10,4.37,0.26,2.95,24.0,149,691,21
-mls_2026,Sergiy Boyko,Ukraine,38,144,10,3.79,0.26,3.55,21.7,215,967,33
+mls_2026,Guido Gonzales Jr,USA,38,166,10,4.37,0.26,2.95,24.1,149,691,21
+mls_2026,Sergiy Boyko,Ukraine,38,144,10,3.79,0.26,3.55,21.7,216,968,33
 mls_2026,Chris Penso,USA,36,166,5,4.61,0.14,2.56,22.7,240,1062,37
 mls_2026,Pierre-Luc Lauziere,USA,36,143,3,3.97,0.08,2.97,23.8,115,416,6
 mls_2026,Alexis Da Silva,USA,35,166,4,4.74,0.11,2.89,25.7,54,229,3
 mls_2026,Marcos de Oliveira,USA,32,112,0,3.5,0.0,2.97,25.1,152,566,7
 mls_2026,Jair Antonio Maruffo,USA,31,88,4,2.84,0.13,3.0,21.8,135,401,6
-mls_2026,Fotis Bazakos,USA,30,132,4,4.4,0.13,3.17,24.6,175,704,16
+mls_2026,Fotis Bazakos,USA,30,132,4,4.4,0.13,3.17,24.6,176,705,16
 mls_2026,Malik Badawi,USA,30,129,5,4.3,0.17,2.93,22.9,54,225,1
 mls_2026,Tori Penso,USA,30,124,3,4.13,0.1,2.63,20.8,101,370,3
 mls_2026,Joseph Dickerson,USA,29,127,8,4.38,0.28,3.9,25.5,178,780,28
-mls_2026,Armando Villarrea,USA,27,110,2,4.07,0.07,3.11,23.1,266,999,20
+mls_2026,Armando Villarrea,USA,27,110,2,4.07,0.07,3.11,23.1,267,1000,20
 mls_2026,Lorenzo Hernandez,USA,27,118,6,4.37,0.22,3.19,23.2,34,156,7
 mls_2026,Ricardo Montero,Costa Rica,27,116,7,4.3,0.26,3.26,24.7,52,205,7
 mls_2026,Ricardo Fierro,USA,26,101,9,3.88,0.35,2.58,27.8,32,119,4
@@ -33,12 +33,12 @@ mls_2026,Joshua Encarnacion,USA,4,20,2,5.0,0.5,3.0,29.5,10,37,1
 mls_2026,Katja Koroleva,USA,3,15,1,5.0,0.33,4.0,22.3,7,23,0
 mls_2026,Michael Venne,Canada,3,16,1,5.33,0.33,3.0,30.3,6,28,1
 mls_2026,Abdou Ndiaye,USA,2,10,0,5.0,0.0,1.0,28.0,12,38,2
-mls_2026,Brandon Stevis,USA,2,5,0,2.5,0.0,4.5,35.5,4,13,0
+mls_2026,Brandon Stevis,USA,2,5,0,2.5,0.0,4.5,35.5,5,15,0
 mls_2026,Greg Dopka,USA,2,8,0,4.0,0.0,2.0,30.5,4,14,0
 mls_2026,Natalie Simon,USA,2,6,0,3.0,0.0,4.5,24.5,19,42,3
 mls_2026,Rodrigo Albuquerque,USA,2,10,1,5.0,0.5,2.0,24.5,3,13,0
 mls_2026,Alyssa Pennington,USA,1,8,0,8.0,0.0,1.0,28.0,9,28,1
 mls_2026,Angel Hernandez Lorenzo,Spain,1,2,0,2.0,0.0,6.0,25.0,5,22,0
 mls_2026,Jose Da Silva,USA,1,2,0,2.0,0.0,6.0,22.0,1,2,0
-mls_2026,Mathew Corrigan,USA,1,5,0,5.0,0.0,3.0,24.0,5,11,2
+mls_2026,Mathew Corrigan,USA,1,5,0,5.0,0.0,3.0,24.0,6,13,2
 mls_2026,Muhammad Kaleia,USA,1,5,0,5.0,0.0,3.0,20.0,3,10,0
