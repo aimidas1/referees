@@ -1,18 +1,18 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
-brasileirao_serie_b_2026,Afro Rocha De Carvalho Filho,Brazil,20,100,4,5.0,0.2,1.95,28.8,29,153,3
+brasileirao_serie_b_2026,Afro Rocha De Carvalho Filho,Brazil,20,100,4,5.0,0.2,1.95,28.8,30,161,3
 brasileirao_serie_b_2026,Bruno Pereira Vasconcelos,Brazil,19,99,8,5.21,0.42,2.37,28.9,52,281,9
 brasileirao_serie_b_2026,Wagner do Nascimento Magalhaes,Brazil,19,87,3,4.58,0.16,3.47,25.9,238,1302,27
 brasileirao_serie_b_2026,Jonathan Benkenstein Pinheiro,Brazil,17,64,3,3.76,0.18,2.47,29.9,60,227,12
 brasileirao_serie_b_2026,Yuri Elino Ferreira Da Cruz,Brazil,15,58,4,3.87,0.27,2.0,27.8,68,380,12
-brasileirao_serie_b_2026,Gustavo Ervino Bauermann,Brazil,14,81,5,5.79,0.36,2.21,31.5,47,279,3
+brasileirao_serie_b_2026,Gustavo Ervino Bauermann,Brazil,14,81,5,5.79,0.36,2.21,31.5,48,283,4
 brasileirao_serie_b_2026,Marcelo de Lima Henrique,Brazil,13,64,6,4.92,0.46,2.85,24.8,247,1120,48
-brasileirao_serie_b_2026,Edina Alves Batista,Brazil,12,58,3,4.83,0.25,1.67,28.9,113,490,13
+brasileirao_serie_b_2026,Edina Alves Batista,Brazil,12,58,3,4.83,0.25,1.67,28.9,113,492,13
 brasileirao_serie_b_2026,Fernando Antonio Mendes de Salles Nascimento Filho,Brazil,12,62,5,5.17,0.42,2.17,30.6,44,235,13
-brasileirao_serie_b_2026,Lucas Canetto Bellote,Brazil,12,58,1,4.83,0.08,2.0,26.5,27,148,5
+brasileirao_serie_b_2026,Lucas Canetto Bellote,Brazil,12,58,1,4.83,0.08,2.0,26.5,28,150,5
 brasileirao_serie_b_2026,Lucas Guimarães Rechatiko Horn,Brazil,12,57,2,4.75,0.17,2.0,29.7,22,102,5
 brasileirao_serie_b_2026,Maguielson Lima Barbosa,Brazil,12,61,6,5.08,0.5,2.75,27.3,49,283,13
 brasileirao_serie_b_2026,Alex Gomes Stefano,Brazil,11,49,7,4.45,0.64,2.18,28.1,77,395,25
-brasileirao_serie_b_2026,Andre Luis Skettino Policarpo Bento,Brazil,11,53,6,4.82,0.55,1.45,31.5,16,86,5
+brasileirao_serie_b_2026,Andre Luis Skettino Policarpo Bento,Brazil,11,53,6,4.82,0.55,1.45,31.5,17,92,5
 brasileirao_serie_b_2026,Bruno Arleu de Araujo,Brazil,11,59,1,5.36,0.09,2.27,26.7,226,1249,32
 brasileirao_serie_b_2026,Joao Vitor Gobi,Brazil,11,37,3,3.36,0.27,1.82,30.5,66,306,15
 brasileirao_serie_b_2026,Savio Pereira Sampaio,Brazil,11,37,2,3.36,0.18,3.36,26.3,116,526,17
@@ -26,9 +26,9 @@ brasileirao_serie_b_2026,Anderson Daronco,Brazil,8,46,2,5.75,0.25,3.0,26.9,405,1
 brasileirao_serie_b_2026,Felipe Fernandes de Lima,Brazil,8,46,8,5.75,1.0,2.12,31.4,125,696,34
 brasileirao_serie_b_2026,Jefferson Ferreira de Moraes,Brazil,8,44,3,5.5,0.38,2.25,26.5,72,382,25
 brasileirao_serie_b_2026,Flavio Rodrigues De Souza,Brazil,7,42,4,6.0,0.57,1.57,24.7,251,1198,40
-brasileirao_serie_b_2026,Lucas Casagrande,Brazil,7,28,5,4.0,0.71,1.86,32.5,46,211,9
+brasileirao_serie_b_2026,Lucas Casagrande,Brazil,7,28,5,4.0,0.71,1.86,32.5,47,215,10
 brasileirao_serie_b_2026,Andre Luiz Skettino Policarpo Bento,Brazil,6,40,0,6.67,0.0,2.0,31.6,53,329,11
-brasileirao_serie_b_2026,Daiane Caroline Muniz Dos Santos,Brazil,6,22,0,3.67,0.0,2.5,26.8,19,83,2
+brasileirao_serie_b_2026,Daiane Caroline Muniz Dos Santos,Brazil,6,22,0,3.67,0.0,2.5,26.8,20,85,2
 brasileirao_serie_b_2026,Davi de Oliveira Lacerda,Brazil,6,31,2,5.17,0.33,2.0,23.8,91,484,14
 brasileirao_serie_b_2026,Jose Mendonca da Silva Junior,Brazil,6,30,4,5.0,0.67,2.0,26.2,31,150,11
 brasileirao_serie_b_2026,Paulo Belence Alves Dos Prazeres Filho,Brazil,6,30,1,5.0,0.17,2.0,24.7,30,154,8
@@ -50,7 +50,7 @@ brasileirao_serie_b_2026,Emerson Ricardo de Almeida Andrade,Brazil,3,18,0,6.0,0.
 brasileirao_serie_b_2026,Fabiano Monteiro dos Santos,Brazil,3,15,1,5.0,0.33,2.33,28.5,12,53,4
 brasileirao_serie_b_2026,Jodis Nascimento de Souza,Brazil,3,15,0,5.0,0.0,3.67,25.3,2,13,0
 brasileirao_serie_b_2026,Paulo Roberto Alves Junior,Brazil,3,18,0,6.0,0.0,2.67,24.0,80,385,12
-brasileirao_serie_b_2026,Pierry Dias dos Santos,Brazil,3,16,0,5.33,0.0,3.33,30.7,2,13,0
+brasileirao_serie_b_2026,Pierry Dias dos Santos,Brazil,3,16,0,5.33,0.0,3.33,30.7,3,16,0
 brasileirao_serie_b_2026,Raphael Claus,Brazil,3,15,2,5.0,0.67,2.67,27.3,395,1713,58
 brasileirao_serie_b_2026,Franciel dos Santos Martins,Brazil,2,6,0,3.0,0.0,2.0,32.0,2,6,0
 brasileirao_serie_b_2026,Julio Cesar Pfleger,Brazil,2,13,2,6.5,1.0,3.0,33.0,3,17,1
