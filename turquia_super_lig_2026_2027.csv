@@ -1,25 +1,25 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
-turquia_super_lig_2026_2027,Atilla Karaoglan,Türkiye,25,151,9,6.04,0.36,3.04,26.6,198,1095,24
+turquia_super_lig_2026_2027,Atilla Karaoglan,Türkiye,25,151,9,6.04,0.36,3.04,26.6,199,1101,24
 turquia_super_lig_2026_2027,Cihan Aydin,Türkiye,25,116,7,4.64,0.28,2.36,27.4,139,566,23
-turquia_super_lig_2026_2027,Halil Umut Meler,Türkiye,25,114,8,4.56,0.32,2.8,26.1,325,1604,42
-turquia_super_lig_2026_2027,Oguzhan Cakir,Türkiye,25,100,6,4.0,0.24,2.6,29.0,97,412,5
+turquia_super_lig_2026_2027,Halil Umut Meler,Türkiye,25,114,8,4.56,0.32,2.8,26.1,326,1609,42
+turquia_super_lig_2026_2027,Oguzhan Cakir,Türkiye,25,100,6,4.0,0.24,2.6,29.0,98,415,6
 turquia_super_lig_2026_2027,Yasin Kol,Türkiye,25,135,10,5.4,0.4,2.2,27.7,141,777,25
 turquia_super_lig_2026_2027,Mehmet Türkmen,Türkiye,22,81,2,3.68,0.09,3.0,25.7,86,326,14
 turquia_super_lig_2026_2027,Ali Yilmaz,Türkiye,21,97,4,4.62,0.19,2.33,25.6,67,315,9
 turquia_super_lig_2026_2027,Batuhan Kolak,Türkiye,21,93,6,4.43,0.29,2.52,27.2,55,270,11
 turquia_super_lig_2026_2027,Adnan Deniz Kayatepe,Türkiye,20,83,2,4.15,0.1,2.65,27.6,67,260,5
+turquia_super_lig_2026_2027,Ali Sansalan,Türkiye,20,113,5,5.65,0.25,3.45,26.9,186,932,25
 turquia_super_lig_2026_2027,Ozan Ergun,Türkiye,20,104,7,5.2,0.35,3.35,25.2,87,443,12
-turquia_super_lig_2026_2027,Ali Sansalan,Türkiye,19,105,5,5.53,0.26,3.47,26.9,185,924,25
+turquia_super_lig_2026_2027,Cagdas Altay,Türkiye,19,69,3,3.63,0.16,3.84,25.3,109,492,13
 turquia_super_lig_2026_2027,Kadir Saglam,Türkiye,19,104,6,5.47,0.32,3.32,28.9,158,765,20
-turquia_super_lig_2026_2027,Cagdas Altay,Türkiye,18,62,3,3.44,0.17,3.78,25.3,109,492,13
 turquia_super_lig_2026_2027,Alper Akarsu,Türkiye,17,68,2,4.0,0.12,2.82,24.9,81,369,10
 turquia_super_lig_2026_2027,Oguzhan Aksu,Türkiye,15,42,2,2.8,0.13,2.0,22.6,80,354,19
+turquia_super_lig_2026_2027,Umit Ozturk,Türkiye,12,67,3,5.58,0.25,2.58,26.5,224,1159,31
 turquia_super_lig_2026_2027,Gurcan Hasova,Türkiye,11,60,2,5.45,0.18,3.0,27.8,55,291,7
-turquia_super_lig_2026_2027,Umit Ozturk,Türkiye,11,61,3,5.55,0.27,2.82,26.5,224,1159,31
 turquia_super_lig_2026_2027,Yigit Arslan,Türkiye,10,42,5,4.2,0.5,3.2,30.1,111,566,24
 turquia_super_lig_2026_2027,Resat Onur Coskunses,Türkiye,9,32,2,3.56,0.22,1.67,26.9,52,229,10
 turquia_super_lig_2026_2027,Omer Tolga Guldibi,Türkiye,8,45,1,5.62,0.12,2.25,29.9,48,246,5
-turquia_super_lig_2026_2027,Abdullah Bugra Taskinsoy,Türkiye,6,23,0,3.83,0.0,1.83,24.2,75,321,14
+turquia_super_lig_2026_2027,Abdullah Bugra Taskinsoy,Türkiye,7,27,1,3.86,0.14,1.86,24.2,76,325,14
 turquia_super_lig_2026_2027,Omer Faruk Turtay,Türkiye,6,19,0,3.17,0.0,3.0,27.2,67,267,8
 turquia_super_lig_2026_2027,Zorbay Kucuk,Türkiye,5,29,1,5.8,0.2,1.0,30.8,151,747,24
 turquia_super_lig_2026_2027,Arda Kardesler,Türkiye,4,24,0,6.0,0.0,3.0,29.7,211,855,13
@@ -29,5 +29,5 @@ turquia_super_lig_2026_2027,Fatih Tokail,Türkiye,4,26,1,6.5,0.25,3.25,33.3,46,2
 turquia_super_lig_2026_2027,Alpaslan Sen,Türkiye,2,12,1,6.0,0.5,3.5,43.0,54,241,15
 turquia_super_lig_2026_2027,Asen Albayrak,Türkiye,2,11,1,5.5,0.5,4.0,22.0,9,30,1
 turquia_super_lig_2026_2027,Direnc Tonusluoglu,Türkiye,1,7,0,7.0,0.0,3.0,28.0,107,478,17
-turquia_super_lig_2026_2027,Melek Dakan,Türkiye,1,1,1,1.0,1.0,3.0,22.0,3,10,2
+turquia_super_lig_2026_2027,Melek Dakan,Türkiye,1,1,1,1.0,1.0,3.0,22.0,7,28,2
 turquia_super_lig_2026_2027,Sarperbaris Saka,Türkiye,1,2,0,2.0,0.0,3.0,,139,611,13
