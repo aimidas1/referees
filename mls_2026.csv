@@ -1,17 +1,17 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
-mls_2026,Allen Chapman,USA,49,170,7,3.47,0.14,3.31,19.8,299,1083,41
+mls_2026,Allen Chapman,USA,49,170,7,3.47,0.14,3.31,19.8,300,1085,41
 mls_2026,Rosendo Mendoza,USA,49,239,12,4.88,0.24,3.16,26.8,149,688,15
 mls_2026,Rubiel Vazquez,USA,48,185,7,3.85,0.15,3.19,23.2,189,683,22
 mls_2026,Jon Freemon,USA,45,206,6,4.58,0.13,3.02,24.3,123,552,8
 mls_2026,Victor Rivas,USA,45,212,15,4.71,0.33,3.27,23.2,158,734,16
-mls_2026,Drew Fischer,Canada,44,186,4,4.23,0.09,3.32,25.0,266,924,30
+mls_2026,Drew Fischer,Canada,44,186,4,4.23,0.09,3.32,25.0,267,929,30
 mls_2026,Filip Dujic,Canada,44,179,10,4.07,0.23,3.43,25.6,101,405,15
 mls_2026,Sergiy Boyko,Ukraine,41,159,10,3.88,0.24,3.56,21.9,218,980,33
 mls_2026,Guido Gonzales Jr,USA,40,177,12,4.42,0.3,2.92,24.0,153,708,22
 mls_2026,Chris Penso,USA,39,180,7,4.62,0.18,2.59,22.7,244,1082,37
 mls_2026,Pierre-Luc Lauziere,USA,38,148,3,3.89,0.08,3.11,24.0,118,425,6
 mls_2026,Alexis Da Silva,USA,37,176,4,4.76,0.11,2.95,25.7,57,244,3
-mls_2026,Jair Antonio Maruffo,USA,34,92,4,2.71,0.12,2.97,21.4,138,403,6
+mls_2026,Jair Antonio Maruffo,USA,34,92,4,2.71,0.12,2.97,21.4,139,405,6
 mls_2026,Marcos de Oliveira,USA,34,117,0,3.44,0.0,2.97,25.1,154,568,7
 mls_2026,Fotis Bazakos,USA,33,141,4,4.27,0.12,3.24,24.3,179,716,16
 mls_2026,Tori Penso,USA,33,134,4,4.06,0.12,2.58,20.9,103,379,3
@@ -40,5 +40,5 @@ mls_2026,Rodrigo Albuquerque,USA,2,10,1,5.0,0.5,2.0,24.5,4,16,0
 mls_2026,Alyssa Pennington,USA,1,8,0,8.0,0.0,1.0,28.0,11,31,1
 mls_2026,Angel Hernandez Lorenzo,Spain,1,2,0,2.0,0.0,6.0,25.0,5,22,0
 mls_2026,Jose Da Silva,USA,1,2,0,2.0,0.0,6.0,22.0,1,2,0
-mls_2026,Mathew Corrigan,USA,1,5,0,5.0,0.0,3.0,24.0,7,16,4
+mls_2026,Mathew Corrigan,USA,1,5,0,5.0,0.0,3.0,24.0,8,16,4
 mls_2026,Muhammad Kaleia,USA,1,5,0,5.0,0.0,3.0,20.0,3,10,0
