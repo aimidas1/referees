@@ -1,35 +1,35 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
-argentina_primera_division_2026,Nazareno Arasa,Argentina,48,250,16,5.21,0.33,1.77,23.4,190,964,38
+argentina_primera_division_2026,Nazareno Arasa,Argentina,49,255,16,5.2,0.33,1.76,23.4,190,964,38
+argentina_primera_division_2026,Luis Lobo Medina,Argentina,48,261,13,5.44,0.27,2.06,23.2,110,603,20
 argentina_primera_division_2026,Sebastian Zunino,Argentina,48,244,14,5.08,0.29,2.08,23.9,121,575,37
-argentina_primera_division_2026,Luis Lobo Medina,Argentina,47,250,12,5.32,0.26,2.04,23.2,109,599,20
-argentina_primera_division_2026,Leandro Rey Hilfer,Argentina,46,232,8,5.04,0.17,1.91,25.6,195,985,25
-argentina_primera_division_2026,Yael Falcon Perez,Argentina,46,271,13,5.89,0.28,2.37,25.2,225,1218,32
-argentina_primera_division_2026,Andres Merlos,Argentina,45,223,21,4.96,0.47,1.89,21.8,329,1450,67
-argentina_primera_division_2026,Dario Herrera,Argentina,44,265,20,6.02,0.45,2.23,25.6,483,2626,105
-argentina_primera_division_2026,Carlos Andres Gariano,Argentina,43,219,19,5.09,0.44,2.05,24.2,109,471,23
-argentina_primera_division_2026,Nicolas Ramirez,Argentina,41,271,9,6.61,0.22,2.17,25.1,151,928,36
+argentina_primera_division_2026,Leandro Rey Hilfer,Argentina,47,236,8,5.02,0.17,1.91,25.6,195,985,25
+argentina_primera_division_2026,Yael Falcon Perez,Argentina,47,278,14,5.91,0.3,2.34,25.2,226,1222,33
+argentina_primera_division_2026,Andres Merlos,Argentina,46,228,21,4.96,0.46,1.89,21.8,328,1449,66
+argentina_primera_division_2026,Dario Herrera,Argentina,45,270,20,6.0,0.44,2.22,25.6,483,2626,105
+argentina_primera_division_2026,Carlos Andres Gariano,Argentina,44,222,19,5.05,0.43,2.05,24.2,109,471,23
+argentina_primera_division_2026,Nicolas Ramirez,Argentina,42,274,9,6.52,0.21,2.24,25.1,151,928,36
 argentina_primera_division_2026,Sebastian Nicolas Martinez,Argentina,41,246,14,6.0,0.34,2.02,25.0,73,440,13
-argentina_primera_division_2026,Pablo Echavarria,Argentina,38,154,9,4.05,0.24,2.34,22.3,241,1089,30
+argentina_primera_division_2026,Pablo Echavarria,Argentina,38,154,9,4.05,0.24,2.34,22.3,242,1089,32
 argentina_primera_division_2026,Pablo Dovalo,Argentina,37,157,16,4.24,0.43,2.3,25.4,153,654,35
 argentina_primera_division_2026,Facundo Raul Tello Figueroa,Argentina,35,179,8,5.11,0.23,1.6,26.6,361,1925,75
-argentina_primera_division_2026,Hernan Mastrangelo,Argentina,34,156,7,4.59,0.21,1.94,26.2,216,1060,29
-argentina_primera_division_2026,Fernando Echenique,Argentina,26,147,15,5.65,0.58,1.96,27.0,304,1413,39
-argentina_primera_division_2026,Nicolas Lamolina,Argentina,26,118,9,4.54,0.35,2.08,21.9,214,1189,46
+argentina_primera_division_2026,Hernan Mastrangelo,Argentina,35,159,7,4.54,0.2,2.03,26.2,216,1060,29
+argentina_primera_division_2026,Fernando Echenique,Argentina,27,150,15,5.56,0.56,1.93,27.0,304,1413,39
+argentina_primera_division_2026,Nicolas Lamolina,Argentina,27,122,9,4.52,0.33,2.22,21.9,214,1189,46
 argentina_primera_division_2026,Ariel Penel,Argentina,19,87,5,4.58,0.26,1.79,23.9,216,953,31
 argentina_primera_division_2026,Bruno Amiconi,Argentina,18,106,6,5.89,0.33,2.17,20.6,18,107,5
-argentina_primera_division_2026,Jorge Balino,Argentina,17,73,3,4.29,0.18,2.24,28.5,260,1277,38
-argentina_primera_division_2026,Fernando Espinoza,Argentina,16,89,7,5.56,0.44,1.69,19.7,271,1439,53
-argentina_primera_division_2026,Daniel Zamora,Argentina,15,84,3,5.6,0.2,2.53,27.6,19,106,3
+argentina_primera_division_2026,Jorge Balino,Argentina,18,75,3,4.17,0.17,2.11,28.5,260,1277,38
+argentina_primera_division_2026,Fernando Espinoza,Argentina,17,91,7,5.35,0.41,1.88,19.7,271,1439,53
+argentina_primera_division_2026,Daniel Zamora,Argentina,16,91,4,5.69,0.25,2.5,27.6,19,106,3
 argentina_primera_division_2026,Bryan Ferreyra,,13,58,4,4.46,0.31,1.69,25.6,17,76,2
 argentina_primera_division_2026,Felipe Viola,Argentina,13,64,5,4.92,0.38,2.46,25.2,13,64,5
 argentina_primera_division_2026,Juan Pafundi,Argentina,12,52,1,4.33,0.08,1.58,26.4,22,100,2
 argentina_primera_division_2026,Alvaro Caranza,Argentina,8,37,2,4.62,0.25,3.0,26.1,9,43,1
-argentina_primera_division_2026,Brian Ferreyra,Argentina,4,14,1,3.5,0.25,1.5,21.0,7,19,0
+argentina_primera_division_2026,Brian Ferreyra,Argentina,4,14,1,3.5,0.25,1.5,21.0,8,24,0
 argentina_primera_division_2026,Juan Pablo Loustau,Argentina,4,19,1,4.75,0.25,1.5,28.0,4,20,0
 argentina_primera_division_2026,Maximiliano Macheroni,Argentina,2,15,1,7.5,0.5,2.5,28.5,3,18,0
+argentina_primera_division_2026,Silvio Trucco,Argentina,2,13,0,6.5,0.0,2.5,,306,1617,48
 argentina_primera_division_2026,Edgardo Zamora,Argentina,1,6,0,6.0,0.0,2.0,,1,6,0
 argentina_primera_division_2026,Gonzalo Pereira,Argentina,1,4,0,4.0,0.0,3.0,21.0,2,8,1
 argentina_primera_division_2026,Juan Cruz Robledo,Argentina,1,4,0,4.0,0.0,1.0,31.0,1,4,0
 argentina_primera_division_2026,Leandro Fedele,Argentina,1,6,1,6.0,1.0,3.0,,1,6,1
 argentina_primera_division_2026,Pablo Gimenez,Argentina,1,4,0,4.0,0.0,2.0,32.0,9,44,0
-argentina_primera_division_2026,Silvio Trucco,Argentina,1,4,0,4.0,0.0,3.0,,306,1617,48
