@@ -1,18 +1,18 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 japao_j1_league_2026_2027,Akihiko Ikeuchi,Japan,44,103,2,2.34,0.05,2.89,20.2,197,546,14
 japao_j1_league_2026_2027,Futoshi Nakamura,Japan,40,116,5,2.9,0.12,2.67,21.6,180,519,10
+japao_j1_league_2026_2027,Hiroyuki Kimura,Japan,40,113,2,2.83,0.05,2.92,23.0,293,832,16
 japao_j1_league_2026_2027,Koichiro Fukushima,Japan,40,79,2,1.98,0.05,2.4,22.3,238,394,7
-japao_j1_league_2026_2027,Hiroyuki Kimura,Japan,39,110,2,2.82,0.05,2.92,22.9,293,832,16
 japao_j1_league_2026_2027,Masuya Ueda,Japan,38,102,5,2.68,0.13,2.53,22.1,169,435,11
 japao_j1_league_2026_2027,Koei Koya,Japan,36,94,6,2.61,0.17,2.47,21.3,105,257,4
 japao_j1_league_2026_2027,Hiroki Kasahara,Japan,35,106,6,3.03,0.17,2.29,22.8,132,361,11
 japao_j1_league_2026_2027,Koji Takasaki,Japan,35,106,6,3.03,0.17,2.09,20.8,57,179,5
 japao_j1_league_2026_2027,Takafumi Mikuriya,Japan,33,68,5,2.06,0.15,2.33,22.8,74,166,6
 japao_j1_league_2026_2027,Hayato Shimizu,Japan,31,74,4,2.39,0.13,2.94,17.9,121,278,11
-japao_j1_league_2026_2027,Ryo Tanimoto,Japan,29,65,3,2.24,0.1,2.24,19.9,109,263,8
+japao_j1_league_2026_2027,Ryo Tanimoto,Japan,30,67,3,2.23,0.1,2.17,19.7,110,268,8
 japao_j1_league_2026_2027,Koki Nagamine,Japan,27,78,2,2.89,0.07,2.56,22.3,40,131,4
+japao_j1_league_2026_2027,Jumpei Iida,Japan,26,62,3,2.38,0.12,2.88,24.4,260,748,14
 japao_j1_league_2026_2027,Yusuke Ohashi,Japan,26,47,4,1.81,0.15,2.77,20.2,34,70,3
-japao_j1_league_2026_2027,Jumpei Iida,Japan,25,60,3,2.4,0.12,2.88,24.3,260,748,14
 japao_j1_league_2026_2027,Atsushi Uemura,Japan,22,61,3,2.77,0.14,3.0,20.6,45,141,3
 japao_j1_league_2026_2027,Yusuke Araki,Japan,21,54,3,2.57,0.14,2.57,19.5,206,600,18
 japao_j1_league_2026_2027,Yuzo Sutani,Japan,21,39,4,1.86,0.19,3.33,21.6,20,39,1
@@ -26,16 +26,16 @@ japao_j1_league_2026_2027,Shu Kawamata,Japan,11,21,1,1.91,0.09,2.0,18.0,34,70,4
 japao_j1_league_2026_2027,Ming Fu,China,9,13,0,1.44,0.0,3.22,22.3,159,469,13
 japao_j1_league_2026_2027,Takuto Okabe,Japan,9,24,0,2.67,0.0,2.33,26.0,169,403,11
 japao_j1_league_2026_2027,Damian Kos,Poland,4,9,0,2.25,0.0,3.0,21.0,148,675,15
-japao_j1_league_2026_2027,Iván Barton,El Salvador,4,15,0,3.75,0.0,2.5,,72,333,18
+japao_j1_league_2026_2027,Iván Barton,El Salvador,4,15,0,3.75,0.0,2.5,,73,337,18
 japao_j1_league_2026_2027,Lukasz Kuzma,Poland,4,11,0,2.75,0.0,2.75,,142,610,13
 japao_j1_league_2026_2027,Nathan Verboomen,Belgium,4,13,0,3.25,0.0,1.75,,250,1098,44
 japao_j1_league_2026_2027,Ali Mohamed Ahmed,,3,10,1,3.33,0.33,1.67,23.0,3,11,0
 japao_j1_league_2026_2027,Faisal Suleiman Al-Balawi,Saudi Arabia,3,9,0,3.0,0.0,2.67,22.7,73,322,11
 japao_j1_league_2026_2027,Florian Badstubner,Germany,3,7,0,2.33,0.0,1.33,,314,1171,27
-japao_j1_league_2026_2027,Florian Exner,Germany,3,14,0,4.67,0.0,3.33,23.3,184,790,19
+japao_j1_league_2026_2027,Florian Exner,Germany,3,14,0,4.67,0.0,3.33,23.3,184,791,19
 japao_j1_league_2026_2027,Harm Osmers,Germany,3,7,0,2.33,0.0,4.33,22.0,367,1546,33
 japao_j1_league_2026_2027,Martin Petersen,Germany,3,7,0,2.33,0.0,3.0,,324,1331,30
-japao_j1_league_2026_2027,César Ramos Palazuelos,Mexico,2,6,1,3.0,0.5,4.0,22.0,370,1612,95
+japao_j1_league_2026_2027,César Ramos Palazuelos,Mexico,2,6,1,3.0,0.5,4.0,22.0,371,1614,95
 japao_j1_league_2026_2027,Keigo Sentatsu,Japan,2,8,0,4.0,0.0,2.5,24.5,1,4,0
 japao_j1_league_2026_2027,Koya Yukie,Japan,2,6,1,3.0,0.5,2.5,20.0,5,11,1
 japao_j1_league_2026_2027,Robert Jones,England,2,6,0,3.0,0.0,2.5,,325,1174,20
