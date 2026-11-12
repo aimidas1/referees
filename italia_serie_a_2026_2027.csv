@@ -1,48 +1,49 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
-italia_serie_a_2026_2027,Daniele Doveri,Italy,34,113,5,3.32,0.15,2.21,22.9,300,1295,29
-italia_serie_a_2026_2027,Davide Massa,Italy,33,147,13,4.45,0.39,2.09,26.9,391,1818,54
+italia_serie_a_2026_2027,Daniele Doveri,Italy,35,113,5,3.23,0.14,2.23,22.9,300,1295,29
+italia_serie_a_2026_2027,Davide Massa,Italy,35,154,13,4.4,0.37,2.11,26.9,391,1818,54
 italia_serie_a_2026_2027,Simone Sozza,Italy,31,110,8,3.55,0.26,2.61,24.4,204,930,27
 italia_serie_a_2026_2027,Luca Zufferli,Italy,30,87,5,2.9,0.17,2.83,23.8,110,421,19
-italia_serie_a_2026_2027,Daniele Chiffi,Italy,29,83,8,2.86,0.28,2.48,22.0,295,1232,51
+italia_serie_a_2026_2027,Daniele Chiffi,Italy,29,83,8,2.86,0.28,2.48,22.0,296,1233,51
+italia_serie_a_2026_2027,Maurizio Mariani,Italy,29,112,3,3.86,0.1,2.69,24.5,356,1647,60
 italia_serie_a_2026_2027,Andrea Colombo,Italy,28,130,7,4.64,0.25,2.93,27.2,132,650,26
-italia_serie_a_2026_2027,Maurizio Mariani,Italy,28,107,3,3.82,0.11,2.64,24.5,355,1645,59
-italia_serie_a_2026_2027,Michael Fabbri,Italy,27,112,10,4.15,0.37,1.93,23.6,277,1318,40
-italia_serie_a_2026_2027,Federico La Penna,Italy,25,97,5,3.88,0.2,2.76,27.4,248,1232,38
+italia_serie_a_2026_2027,Michael Fabbri,Italy,28,121,11,4.32,0.39,1.93,23.6,277,1318,40
+italia_serie_a_2026_2027,Federico La Penna,Italy,26,106,6,4.08,0.23,2.77,27.4,248,1232,38
 italia_serie_a_2026_2027,Marco Di Bello,Italy,25,69,4,2.76,0.16,2.68,25.2,295,1373,52
 italia_serie_a_2026_2027,Fabio Maresca,Italy,23,94,9,4.09,0.39,2.48,25.8,296,1629,80
+italia_serie_a_2026_2027,Francesco Fourneau,Italy,23,96,0,4.17,0.0,2.91,25.8,205,981,43
+italia_serie_a_2026_2027,Gianluca Manganiello,Italy,23,76,2,3.3,0.09,2.09,23.3,278,1211,52
 italia_serie_a_2026_2027,Luca Pairetto,Italy,23,102,8,4.43,0.35,2.78,24.1,284,1403,54
-italia_serie_a_2026_2027,Francesco Fourneau,Italy,22,95,0,4.32,0.0,2.86,25.8,205,981,43
-italia_serie_a_2026_2027,Gianluca Manganiello,Italy,22,75,2,3.41,0.09,2.05,23.3,278,1211,52
-italia_serie_a_2026_2027,Ermanno Feliciani,Italy,21,55,1,2.62,0.05,2.95,23.6,79,300,9
+italia_serie_a_2026_2027,Ermanno Feliciani,Italy,22,58,1,2.64,0.05,3.05,23.6,80,302,9
+italia_serie_a_2026_2027,Matteo Marchetti,Italy,22,81,8,3.68,0.36,2.32,24.2,135,548,27
 italia_serie_a_2026_2027,Giuseppe Collu,Italy,21,91,5,4.33,0.24,2.05,22.3,76,361,12
-italia_serie_a_2026_2027,Matteo Marchetti,Italy,21,78,8,3.71,0.38,2.38,24.2,134,545,27
+italia_serie_a_2026_2027,Giovanni Ayroldi,Italy,20,95,9,4.75,0.45,2.4,28.3,151,833,34
+italia_serie_a_2026_2027,Juan Luca Sacchi,Italy,20,66,1,3.3,0.05,2.7,24.8,268,1144,33
 italia_serie_a_2026_2027,Livio Marinelli,Italy,20,64,4,3.2,0.2,2.9,25.8,227,1015,39
 italia_serie_a_2026_2027,Marco Guida,Italy,20,74,4,3.7,0.2,2.55,23.9,336,1541,49
-italia_serie_a_2026_2027,Giovanni Ayroldi,Italy,19,88,8,4.63,0.42,2.26,28.3,150,827,34
-italia_serie_a_2026_2027,Juan Luca Sacchi,Italy,19,63,1,3.32,0.05,2.74,24.8,268,1144,33
-italia_serie_a_2026_2027,Matteo Marcenaro,Italy,19,80,5,4.21,0.26,2.74,24.9,104,510,26
+italia_serie_a_2026_2027,Matteo Marcenaro,Italy,20,87,5,4.35,0.25,2.75,24.9,104,510,26
 italia_serie_a_2026_2027,Rosario Abisso,Italy,19,76,7,4.0,0.37,2.47,24.0,251,1314,55
+italia_serie_a_2026_2027,Marco Piccinini,Italy,18,69,5,3.83,0.28,2.39,26.3,232,1077,40
 italia_serie_a_2026_2027,Kevin Bonacina,Italy,17,45,3,2.65,0.18,3.0,26.1,82,343,13
-italia_serie_a_2026_2027,Marco Piccinini,Italy,17,64,5,3.76,0.29,2.41,26.3,232,1077,40
+italia_serie_a_2026_2027,Antonio Rapuano,Italy,16,65,9,4.06,0.56,2.25,24.9,244,1202,46
 italia_serie_a_2026_2027,Alberto Ruben Arena,Italy,15,45,1,3.0,0.07,2.13,21.1,78,339,7
-italia_serie_a_2026_2027,Antonio Rapuano,Italy,15,62,9,4.13,0.6,2.2,24.9,243,1201,46
 italia_serie_a_2026_2027,Valerio Crezzini,Italy,14,39,0,2.79,0.0,3.0,24.2,72,325,8
 italia_serie_a_2026_2027,Daniele Perenzoni,Italy,6,22,1,3.67,0.17,2.0,23.8,77,369,18
 italia_serie_a_2026_2027,Davide Di Marco,Italy,5,17,0,3.4,0.0,2.6,22.4,69,319,9
-italia_serie_a_2026_2027,Giuseppe Mucera,Italy,5,13,0,2.6,0.0,2.4,24.0,71,253,25
+italia_serie_a_2026_2027,Giuseppe Mucera,Italy,5,13,0,2.6,0.0,2.4,24.0,72,256,25
 italia_serie_a_2026_2027,Paride Tremolada,Italy,5,28,2,5.6,0.4,2.4,23.0,78,413,11
 italia_serie_a_2026_2027,Andrea Calzavara,Italy,4,12,0,3.0,0.0,2.0,26.5,76,400,13
+italia_serie_a_2026_2027,Federico Dionisi,Italy,4,19,1,4.75,0.25,2.25,25.5,169,732,20
 italia_serie_a_2026_2027,Andrea Zanotti,Italy,3,11,1,3.67,0.33,3.0,20.0,68,306,7
-italia_serie_a_2026_2027,Federico Dionisi,Italy,3,15,0,5.0,0.0,3.0,25.5,169,732,20
 italia_serie_a_2026_2027,Luca Massimi,Italy,3,13,1,4.33,0.33,1.33,24.5,171,801,33
 italia_serie_a_2026_2027,Maria Sole Ferrieri Caputi,Italy,3,11,0,3.67,0.0,2.33,19.7,94,359,9
 italia_serie_a_2026_2027,Claudio Giuseppe Allegretta,Italy,2,8,1,4.0,0.5,3.0,19.5,52,222,4
 italia_serie_a_2026_2027,Ivano Pezzuto,Italy,2,7,0,3.5,0.0,0.0,30.0,236,1185,43
 italia_serie_a_2026_2027,Mario Perri,Italy,2,9,0,4.5,0.0,3.5,28.5,76,361,6
+italia_serie_a_2026_2027,Antonio Giua,Italy,1,5,0,5.0,0.0,2.0,,184,852,34
 italia_serie_a_2026_2027,Daniele Rutella,Italy,1,1,0,1.0,0.0,2.0,,46,281,7
 italia_serie_a_2026_2027,Davide Ghersini,Italy,1,0,0,0.0,0.0,5.0,,243,1043,33
 italia_serie_a_2026_2027,Francesco Cosso,Italy,1,5,2,5.0,2.0,5.0,,62,346,8
-italia_serie_a_2026_2027,Gabriele Sacchi,Italy,1,2,0,2.0,0.0,4.0,,64,285,1
+italia_serie_a_2026_2027,Gabriele Sacchi,Italy,1,2,0,2.0,0.0,4.0,,65,286,1
 italia_serie_a_2026_2027,Gianluca Aureliano,Italy,1,2,0,2.0,0.0,6.0,,235,1158,63
 italia_serie_a_2026_2027,Giovanni Baccini,Italy,1,8,0,8.0,0.0,3.0,35.0,1,8,0
 italia_serie_a_2026_2027,Marco Monaldi,Italy,1,7,0,7.0,0.0,4.0,,48,284,8
