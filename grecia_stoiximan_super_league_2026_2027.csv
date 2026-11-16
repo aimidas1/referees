@@ -1,14 +1,14 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
 grecia_stoiximan_super_league_2026_2027,Alexandros Tsakalidis,Greece,33,167,1,5.06,0.03,2.27,28.7,79,401,5
 grecia_stoiximan_super_league_2026_2027,Anastasios Papapetrou,Greece,33,147,11,4.45,0.33,2.18,31.6,224,919,18
-grecia_stoiximan_super_league_2026_2027,Vassilis Fotias,Greece,32,152,10,4.75,0.31,2.66,28.6,157,746,16
+grecia_stoiximan_super_league_2026_2027,Vassilis Fotias,Greece,33,162,12,4.91,0.36,2.64,28.6,157,746,16
 grecia_stoiximan_super_league_2026_2027,Angelos Evangelou,Greece,29,130,7,4.48,0.24,2.83,24.8,167,750,17
 grecia_stoiximan_super_league_2026_2027,Fotios Polychronis,Greece,29,141,8,4.86,0.28,2.48,28.2,54,288,6
 grecia_stoiximan_super_league_2026_2027,Christos Vergetis,Greece,28,139,10,4.96,0.36,2.25,32.1,68,382,10
 grecia_stoiximan_super_league_2026_2027,Anastasios Sidiropoulos,Greece,23,106,9,4.61,0.39,2.3,25.1,361,1878,50
 grecia_stoiximan_super_league_2026_2027,Athanasios Tzilos,Greece,22,120,6,5.45,0.27,2.73,29.2,136,678,10
+grecia_stoiximan_super_league_2026_2027,Stavros Tsimenteridis,Greece,20,116,8,5.8,0.4,2.6,29.1,44,219,9
 grecia_stoiximan_super_league_2026_2027,Ioannis Papadopoulos,Greece,19,116,8,6.11,0.42,2.26,30.3,154,831,19
-grecia_stoiximan_super_league_2026_2027,Stavros Tsimenteridis,Greece,19,109,8,5.74,0.42,2.74,29.1,44,219,9
 grecia_stoiximan_super_league_2026_2027,Alexandros Katsikogiannis,Greece,18,87,9,4.83,0.5,2.39,31.8,93,468,12
 grecia_stoiximan_super_league_2026_2027,Spyridon Zampalas,Greece,18,103,5,5.72,0.28,2.67,33.4,53,284,9
 grecia_stoiximan_super_league_2026_2027,Konstantinos Katikos,Greece,12,68,6,5.67,0.5,3.75,29.4,12,70,4
@@ -29,7 +29,7 @@ grecia_stoiximan_super_league_2026_2027,Andrea Colombo,Italy,3,16,5,5.33,1.67,1.
 grecia_stoiximan_super_league_2026_2027,Halil Umut Meler,Türkiye,3,20,1,6.67,0.33,1.33,30.0,328,1617,42
 grecia_stoiximan_super_league_2026_2027,José María Sánchez Martínez,Spain,3,16,0,5.33,0.0,1.33,24.0,406,2213,43
 grecia_stoiximan_super_league_2026_2027,Petros Tsagarakis,Greece,3,16,3,5.33,1.0,1.67,,60,320,7
-grecia_stoiximan_super_league_2026_2027,Rade Obrenovič,Slovenia,3,8,1,2.67,0.33,3.67,30.5,272,1148,23
+grecia_stoiximan_super_league_2026_2027,Rade Obrenovič,Slovenia,3,8,1,2.67,0.33,3.67,30.5,271,1146,23
 grecia_stoiximan_super_league_2026_2027,Tobias Stieler,Germany,3,12,0,4.0,0.0,2.0,27.0,451,1710,43
 grecia_stoiximan_super_league_2026_2027,Damian Sylwestrzak,Poland,2,6,0,3.0,0.0,2.0,34.0,198,964,16
 grecia_stoiximan_super_league_2026_2027,Daniel Siebert,Germany,2,8,2,4.0,1.0,1.5,23.0,465,1988,37
@@ -47,13 +47,14 @@ grecia_stoiximan_super_league_2026_2027,Danny Makkelie,Netherlands,1,8,0,8.0,0.0
 grecia_stoiximan_super_league_2026_2027,Enea Jorgji,Albania,1,8,0,8.0,0.0,3.0,,57,261,10
 grecia_stoiximan_super_league_2026_2027,Eric Lambrechts,Belgium,1,4,0,4.0,0.0,1.0,29.0,351,1440,37
 grecia_stoiximan_super_league_2026_2027,Espen Eskas,Norway,1,6,0,6.0,0.0,1.0,,338,1178,17
+grecia_stoiximan_super_league_2026_2027,Fabio Jose Costa Verissimo,Portugal,1,5,0,5.0,0.0,4.0,,376,2165,71
 grecia_stoiximan_super_league_2026_2027,Felix Brych,Germany,1,5,0,5.0,0.0,5.0,,481,1893,39
 grecia_stoiximan_super_league_2026_2027,Glenn Nyberg,Sweden,1,4,1,4.0,1.0,3.0,,391,1281,24
 grecia_stoiximan_super_league_2026_2027,Goga Kikacheishvili,Georgia,1,4,0,4.0,0.0,4.0,20.0,35,159,4
-grecia_stoiximan_super_league_2026_2027,Irfan Peljto,Bosnia & Herzegovina,1,4,0,4.0,0.0,2.0,24.0,123,547,14
+grecia_stoiximan_super_league_2026_2027,Irfan Peljto,Bosnia & Herzegovina,1,4,0,4.0,0.0,2.0,24.0,122,542,14
 grecia_stoiximan_super_league_2026_2027,Jesus Gil Manzano,Spain,1,4,0,4.0,0.0,3.0,37.0,448,2279,55
 grecia_stoiximan_super_league_2026_2027,Lefteris Katopis,Greece,1,0,0,0.0,0.0,4.0,33.0,1,0,0
-grecia_stoiximan_super_league_2026_2027,Morten Krogh,Denmark,1,5,1,5.0,1.0,3.0,,229,938,19
+grecia_stoiximan_super_league_2026_2027,Morten Krogh,Denmark,1,5,1,5.0,1.0,3.0,,228,937,19
 grecia_stoiximan_super_league_2026_2027,Robert Schröder,Germany,1,8,3,8.0,3.0,5.0,40.0,260,1084,22
 grecia_stoiximan_super_league_2026_2027,Rohit Saggi,Norway,1,5,0,5.0,0.0,2.0,32.0,299,1134,19
 grecia_stoiximan_super_league_2026_2027,Simone Sozza,Italy,1,2,0,2.0,0.0,4.0,19.0,204,930,27
