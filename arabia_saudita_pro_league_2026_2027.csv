@@ -2,8 +2,8 @@
 arabia_saudita_pro_league_2026_2027,Khaled Al Teris,Saudi Arabia,39,168,3,4.31,0.08,3.03,25.8,96,389,11
 arabia_saudita_pro_league_2026_2027,Majed Mohammed Al-Shamrani,Saudi Arabia,36,155,9,4.31,0.25,3.19,23.2,83,330,17
 arabia_saudita_pro_league_2026_2027,Shukri Alhunfush,Saudi Arabia,36,110,6,3.06,0.17,2.75,24.7,65,211,6
+arabia_saudita_pro_league_2026_2027,Faisal Suleiman Al-Balawi,Saudi Arabia,34,155,9,4.56,0.26,2.68,22.7,73,322,11
 arabia_saudita_pro_league_2026_2027,Mohammed Khled Hoish,Saudi Arabia,34,135,7,3.97,0.21,3.38,24.7,106,415,16
-arabia_saudita_pro_league_2026_2027,Faisal Suleiman Al-Balawi,Saudi Arabia,33,150,8,4.55,0.24,2.67,22.7,73,322,11
 arabia_saudita_pro_league_2026_2027,Abdullah Al-Kharbosh,Saudi Arabia,26,97,4,3.73,0.15,2.81,22.5,40,161,5
 arabia_saudita_pro_league_2026_2027,Mohammed Sami Taher Al Ismail,Saudi Arabia,25,107,7,4.28,0.28,2.8,21.8,35,145,4
 arabia_saudita_pro_league_2026_2027,Abdullah Al-Owaidan,Saudi Arabia,20,73,3,3.65,0.15,2.95,24.4,21,78,4
@@ -26,7 +26,7 @@ arabia_saudita_pro_league_2026_2027,Andris Treimanis,Latvia,8,30,0,3.75,0.0,2.88
 arabia_saudita_pro_league_2026_2027,Georgi Kabakov,Bulgaria,8,35,1,4.38,0.12,3.88,15.5,348,1945,38
 arabia_saudita_pro_league_2026_2027,Jesús Valenzuela,Venezuela,8,32,2,4.0,0.25,2.12,23.7,140,671,15
 arabia_saudita_pro_league_2026_2027,Fareeh Al Jaloud,Saudi Arabia,7,31,0,4.43,0.0,2.14,20.3,22,89,2
-arabia_saudita_pro_league_2026_2027,Facundo Raul Tello Figueroa,Argentina,6,31,1,5.17,0.17,3.0,23.7,363,1941,79
+arabia_saudita_pro_league_2026_2027,Facundo Raul Tello Figueroa,Argentina,6,31,1,5.17,0.17,3.0,23.7,364,1951,79
 arabia_saudita_pro_league_2026_2027,Tamas Bognar,Hungary,6,30,0,5.0,0.0,4.17,23.0,250,1142,25
 arabia_saudita_pro_league_2026_2027,Eric Lambrechts,Belgium,5,24,2,4.8,0.4,3.0,22.3,351,1440,37
 arabia_saudita_pro_league_2026_2027,Istvan Kovacs,Romania,5,23,1,4.6,0.2,3.0,18.8,456,2418,65
@@ -45,6 +45,7 @@ arabia_saudita_pro_league_2026_2027,Ali Mohammed Sawia Al Qahtani,Saudi Arabia,3
 arabia_saudita_pro_league_2026_2027,Claudio Filipe Ruivo Pereira,Portugal,3,17,0,5.67,0.0,2.67,,207,1058,35
 arabia_saudita_pro_league_2026_2027,Daniel Siebert,Germany,3,14,1,4.67,0.33,3.33,,465,1988,37
 arabia_saudita_pro_league_2026_2027,Danny Makkelie,Netherlands,3,9,1,3.0,0.33,4.67,17.0,591,2006,60
+arabia_saudita_pro_league_2026_2027,Dario Herrera,Argentina,3,16,1,5.33,0.33,2.0,20.0,485,2633,105
 arabia_saudita_pro_league_2026_2027,Harm Osmers,Germany,3,9,0,3.0,0.0,2.67,22.0,370,1558,33
 arabia_saudita_pro_league_2026_2027,Ibrahim Ahmed Al-Jurays,Saudi Arabia,3,7,1,2.33,0.33,3.67,20.7,4,9,1
 arabia_saudita_pro_league_2026_2027,Irfan Peljto,Bosnia & Herzegovina,3,15,4,5.0,1.33,5.0,31.5,123,548,14
@@ -55,7 +56,6 @@ arabia_saudita_pro_league_2026_2027,Abdullah Yahya Yahya Zarban,Saudi Arabia,2,1
 arabia_saudita_pro_league_2026_2027,Abdulrahman Al Sultan,Saudi Arabia,2,6,1,3.0,0.5,2.5,,11,37,3
 arabia_saudita_pro_league_2026_2027,Abdulsamad Ali Bakri,Saudi Arabia,2,10,0,5.0,0.0,3.0,30.5,2,12,0
 arabia_saudita_pro_league_2026_2027,César Ramos Palazuelos,Mexico,2,11,2,5.5,1.0,4.5,28.0,372,1625,95
-arabia_saudita_pro_league_2026_2027,Dario Herrera,Argentina,2,9,0,4.5,0.0,1.5,20.0,485,2633,105
 arabia_saudita_pro_league_2026_2027,Esteban Ostojich,Uruguay,2,6,0,3.0,0.0,1.5,,327,2165,82
 arabia_saudita_pro_league_2026_2027,Felix Zwayer,Germany,2,21,1,10.5,0.5,3.0,,538,2462,54
 arabia_saudita_pro_league_2026_2027,Horatiu Fesnic,Romania,2,7,1,3.5,0.5,4.5,23.5,289,1478,37
@@ -65,13 +65,14 @@ arabia_saudita_pro_league_2026_2027,Luís Godinho,Portugal,2,5,0,2.5,0.0,4.0,17.
 arabia_saudita_pro_league_2026_2027,Mohamed Al Smaail,Saudi Arabia,2,4,1,2.0,0.5,1.5,21.5,2,4,1
 arabia_saudita_pro_league_2026_2027,Mohammed Salem Al-Daqqash,Saudi Arabia,2,11,1,5.5,0.5,2.0,,7,33,1
 arabia_saudita_pro_league_2026_2027,Nicolas Ramirez,Argentina,2,3,1,1.5,0.5,2.5,19.0,152,938,38
+arabia_saudita_pro_league_2026_2027,Radu Marian Petrescu,Romania,2,3,0,1.5,0.0,3.5,24.0,348,1575,34
 arabia_saudita_pro_league_2026_2027,Ricardo De Burgos Bengoetxea,Spain,2,6,1,3.0,0.5,2.0,20.0,367,1680,46
 arabia_saudita_pro_league_2026_2027,Sandro Schärer,Switzerland,2,10,0,5.0,0.0,3.5,24.0,356,1607,33
 arabia_saudita_pro_league_2026_2027,Alejandro Muñiz Ruiz,Spain,1,4,2,4.0,2.0,6.0,17.0,157,796,42
 arabia_saudita_pro_league_2026_2027,Alexis Herrera,Venezuela,1,5,1,5.0,1.0,5.0,,108,498,20
 arabia_saudita_pro_league_2026_2027,Alireza Faghani,Australia,1,2,0,2.0,0.0,6.0,27.0,243,991,17
 arabia_saudita_pro_league_2026_2027,Amin Mohamed Omar,Egypt,1,0,1,0.0,1.0,4.0,18.0,15,40,2
-arabia_saudita_pro_league_2026_2027,Andres Matonte,Uruguay,1,5,0,5.0,0.0,2.0,,291,1611,74
+arabia_saudita_pro_league_2026_2027,Andres Matonte,Uruguay,1,5,0,5.0,0.0,2.0,,292,1613,74
 arabia_saudita_pro_league_2026_2027,Andres Rojas,Colombia,1,2,0,2.0,0.0,2.0,,277,1581,64
 arabia_saudita_pro_league_2026_2027,Benoît Bastien,France,1,5,1,5.0,1.0,2.0,,441,1731,76
 arabia_saudita_pro_league_2026_2027,Bruno Arleu de Araujo,Brazil,1,2,0,2.0,0.0,2.0,,234,1285,34
@@ -106,8 +107,7 @@ arabia_saudita_pro_league_2026_2027,Mohammed Saif Al-Harbi,Saudi Arabia,1,5,0,5.
 arabia_saudita_pro_league_2026_2027,Nazareno Arasa,Argentina,1,1,0,1.0,0.0,2.0,,192,971,38
 arabia_saudita_pro_league_2026_2027,Nenad Minaković,Serbia,1,5,0,5.0,0.0,1.0,,130,615,17
 arabia_saudita_pro_league_2026_2027,Omar Abdulkadir Artan,Somalia,1,3,0,3.0,0.0,5.0,17.0,10,27,1
-arabia_saudita_pro_league_2026_2027,Radu Marian Petrescu,Romania,1,1,0,1.0,0.0,4.0,24.0,348,1575,34
-arabia_saudita_pro_league_2026_2027,Rafael Rodrigo Klein,Brazil,1,4,0,4.0,0.0,2.0,,133,710,37
+arabia_saudita_pro_league_2026_2027,Rafael Rodrigo Klein,Brazil,1,4,0,4.0,0.0,2.0,,132,705,37
 arabia_saudita_pro_league_2026_2027,Raphael Claus,Brazil,1,6,0,6.0,0.0,4.0,27.0,400,1738,61
 arabia_saudita_pro_league_2026_2027,Sami Al Jires,Saudi Arabia,1,8,0,8.0,0.0,1.0,23.0,8,30,0
 arabia_saudita_pro_league_2026_2027,Sascha Stegemann,Germany,1,7,0,7.0,0.0,2.0,22.0,402,1571,38
@@ -115,5 +115,5 @@ arabia_saudita_pro_league_2026_2027,Sebastian Zunino,Argentina,1,1,1,1.0,1.0,5.0
 arabia_saudita_pro_league_2026_2027,Slavko Vinčić,Slovenia,1,5,0,5.0,0.0,2.0,26.0,377,1575,37
 arabia_saudita_pro_league_2026_2027,Vassilis Fotias,Greece,1,3,0,3.0,0.0,6.0,25.0,158,748,16
 arabia_saudita_pro_league_2026_2027,Wilmar Roldan,Colombia,1,6,0,6.0,0.0,2.0,,429,2174,124
-arabia_saudita_pro_league_2026_2027,Wilton Pereira Sampaio,Brazil,1,2,1,2.0,1.0,1.0,19.0,416,2104,56
+arabia_saudita_pro_league_2026_2027,Wilton Pereira Sampaio,Brazil,1,2,1,2.0,1.0,1.0,19.0,417,2109,56
 arabia_saudita_pro_league_2026_2027,Yael Falcon Perez,Argentina,1,4,1,4.0,1.0,0.0,22.0,228,1239,36
