@@ -1,8 +1,8 @@
 ﻿league,name,country,matches,total_yellow_cards,total_red_cards,avg_yellow_per_match,avg_red_per_match,avg_goals_per_match,avg_fouls_per_match,career_games,career_yellow_cards,career_red_cards
-argentina_primera_division_2026,Leandro Rey Hilfer,Argentina,69,351,13,5.09,0.19,1.91,25.6,197,993,26
+argentina_primera_division_2026,Leandro Rey Hilfer,Argentina,70,354,14,5.06,0.2,1.97,25.6,198,994,26
 argentina_primera_division_2026,Yael Falcon Perez,Argentina,69,412,23,5.97,0.33,2.41,25.6,229,1242,36
-argentina_primera_division_2026,Dario Herrera,Argentina,67,397,25,5.93,0.37,2.15,25.4,485,2633,105
-argentina_primera_division_2026,Luis Lobo Medina,Argentina,67,368,19,5.49,0.28,1.96,23.3,111,610,20
+argentina_primera_division_2026,Luis Lobo Medina,Argentina,68,374,19,5.5,0.28,1.96,23.2,111,610,20
+argentina_primera_division_2026,Dario Herrera,Argentina,67,397,25,5.93,0.37,2.15,25.4,486,2641,105
 argentina_primera_division_2026,Nazareno Arasa,Argentina,67,342,25,5.1,0.37,1.75,23.2,192,971,38
 argentina_primera_division_2026,Andres Merlos,Argentina,65,309,29,4.75,0.45,2.05,21.7,330,1456,70
 argentina_primera_division_2026,Sebastian Zunino,Argentina,65,322,20,4.95,0.31,2.06,23.9,124,588,37
@@ -17,7 +17,7 @@ argentina_primera_division_2026,Fernando Echenique,Argentina,44,235,20,5.34,0.45
 argentina_primera_division_2026,Nicolas Lamolina,Argentina,38,182,12,4.79,0.32,2.24,21.9,214,1189,46
 argentina_primera_division_2026,Fernando Espinoza,Argentina,32,167,15,5.22,0.47,2.09,19.7,271,1439,53
 argentina_primera_division_2026,Ariel Penel,Argentina,30,126,5,4.2,0.17,1.83,23.9,216,953,31
-argentina_primera_division_2026,Jorge Balino,Argentina,29,114,5,3.93,0.17,2.31,28.3,260,1277,38
+argentina_primera_division_2026,Jorge Balino,Argentina,30,118,5,3.93,0.17,2.3,28.3,261,1280,38
 argentina_primera_division_2026,Juan Pafundi,Argentina,23,102,3,4.43,0.13,1.43,26.6,24,107,2
 argentina_primera_division_2026,Daniel Zamora,Argentina,20,113,4,5.65,0.2,2.45,27.6,20,114,4
 argentina_primera_division_2026,Bruno Amiconi,Argentina,18,106,6,5.89,0.33,2.17,20.6,18,107,5
